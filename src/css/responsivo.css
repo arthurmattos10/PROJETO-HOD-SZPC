@@ -31,3 +31,11 @@
       gap: 50px;
     }
   }
+
+  .logo {
+    position: absolute; /* Isso vai posicionar a logo no canto da tela */
+    top: 0;
+    left: 0;
+    margin: 0; /* Remover margens */
+    padding: 0; /* Remover padding */
+  }
